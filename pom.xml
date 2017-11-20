@@ -521,7 +521,7 @@
             <configuration>
               <rules>
                 <enforceBytecodeVersion>
-                  <maxJdkVersion>${maven.compiler.target}</maxJdkVersion>
+                  <maxJdkVersion>1.7</maxJdkVersion>
                   <excludes>
                     <exclude>org.codehaus.plexus:plexus-java</exclude>
                     <exclude>org.ow2.asm:asm</exclude>
